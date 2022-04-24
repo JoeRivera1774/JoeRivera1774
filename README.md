@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Joe
 - 👀 I’m interested in learning to code
-- 🌱 I’m currently learning Python, Javascrypt, SQL and R
+- 🌱 I’m currently learning Python, Javascrypt, SQL, C, CSS, HTML and R
 - Just a random guy, nothing special about me
